@@ -21,3 +21,5 @@ Once you have Python and Tkinter installed, you can download the source code for
 To use File Renamer, simply run the file_renamer.py script using Python. This will launch the GUI, which consists of a single button labeled "Select Files". Click this button to open a file dialog that allows you to select the files you want to rename.
 
 Once you've selected the files you want to rename, click the "Rename Files" button in the file dialog. The application will then generate unique and recognizable names for each file and rename them accordingly.
+
+Output names will be like: `Catapult_9.jpg, Calculator_5.jpg, Banana_4.jpg, Shampoo_2.jpg, Knife_1.jpg`
